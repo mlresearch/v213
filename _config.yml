@@ -1,0 +1,85 @@
+---
+booktitle: Proceedings of the Second Conference on Causal Learning and Reasoning
+shortname: CLeaR
+volume: '213'
+year: '2023'
+start: 2023-04-11
+end: 2023-04-14
+published: 2023-08-10
+conference_number: '2'
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: CLeaR-2023
+month: 0
+cycles: false
+bibtex_editor: van der Schaar, Mihaela and Zhang, Cheng and Janzing, Dominik
+editor:
+- given: Mihaela
+  family: Schaar
+  prefix: van der
+- given: Cheng
+  family: Zhang
+- given: Dominik
+  family: Janzing
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the Second Conference on Causal Learning and Reasoning
+    Held in Amazon Development Center, T\"ubingen, Germany on 11-14 April 2023
+
+  Published as Volume 213 by the Proceedings of Machine Learning Research on 10 August 2023.
+
+  Volume Edited by:
+    Mihaela van der Schaar
+    Cheng Zhang
+    Dominik Janzing
+
+  Series Editors:
+    Neil D. Lawrence
+date_str: 11--14 Apr
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/v213"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: v213
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Volume
+volume_dir: v213
+email: ''
+conference:
+  name: Conference on Causal Learning and Reasoning
+  url: https://www.cclear.cc/
+  location: Amazon Development Center, Tübingen, Germany
+  dates:
+  - 2023-04-11
+  - 2023-04-12
+  - 2023-04-13
+  - 2023-04-14
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+orig_bibfile: "/Users/neil/mlresearch/v213/CLeaR23.bib"
+# Site settings
+# Original source:  /Users/neil/mlresearch/v213/CLeaR23.bib
