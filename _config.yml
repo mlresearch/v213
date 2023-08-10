@@ -6,6 +6,11 @@ year: '2023'
 start: 2023-04-11
 end: 2023-04-14
 published: 2023-08-10
+sections:
+- name: Oral
+  title: Oral
+- name: Poster
+  title: Poster
 conference_number: '2'
 layout: proceedings
 series: Proceedings of Machine Learning Research
